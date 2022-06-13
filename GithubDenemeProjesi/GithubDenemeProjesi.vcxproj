@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="Kaynak.cpp" />
     <ClCompile Include="Kaynak1.cpp" />
+    <ClCompile Include="Kaynak2.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
